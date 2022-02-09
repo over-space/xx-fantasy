@@ -50,7 +50,7 @@
 
         <!--hibernate-->
         <querydsl.version>3.7.4</querydsl.version>
-        <hibernate.version>5.2.12.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <hibernate.validator.version>6.0.3.Final</hibernate.validator.version>
 
         <!--mysql-->
