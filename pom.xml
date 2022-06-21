@@ -55,7 +55,7 @@
 
         <!--mysql-->
         <druid.version>1.1.4</druid.version>
-        <mysql.connector.java.version>8.0.17</mysql.connector.java.version>
+        <mysql.connector.java.version>8.0.28</mysql.connector.java.version>
 
         <jetty.version>9.4.1.v20170120</jetty.version>
         <maven.compiler.plugin.version>3.7.0</maven.compiler.plugin.version>
