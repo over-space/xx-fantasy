@@ -19,7 +19,7 @@
     </modules>
 
     <properties>
-        <poi.version>3.17</poi.version>
+        <poi.version>4.1.1</poi.version>
         <antlr4.version>4.7</antlr4.version>
         <shiro.version>1.4.0</shiro.version>
         <lucene.version>8.4.0</lucene.version>
